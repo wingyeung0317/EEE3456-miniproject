@@ -14,7 +14,7 @@
 ---
 
 ## GPIO
-|PI GPIO map|
+|PI GPIO Map|
 |---|
 |![PI GPIO map](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/b7c68f76-c4da-4f66-adc2-9162f66204f9)|
 
@@ -22,21 +22,20 @@
 |---|---|
 |![Ultrasonic (5V)](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/dae157d7-8d2f-440e-b140-960c8aaa5e54)|![ST7735](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/fcbaff2c-450f-4b15-ab72-59a031ad0066)|
 
-|PIR|PIR|
-|---|---|
-|![PIR [1]](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/ca9d8e2d-399a-4ee4-bc0b-ce9ff165d28f)|![PIR [2]](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/6faf9e0f-d0d0-4e10-80ea-0cba12bfe64d)|
+|PIR (Front)|PIR (Back)|Servo Motor|
+|---|---|---|
+|![PIR [1]](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/ca9d8e2d-399a-4ee4-bc0b-ce9ff165d28f)|![PIR [2]](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/6faf9e0f-d0d0-4e10-80ea-0cba12bfe64d)|![Servo Motor](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/5bcadb3b-ed0c-4ad8-a118-f6a4c43ea828)|
 
-|Servo Motor|Circuit Design|
-|---|---|
-|![Servo Motor](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/5bcadb3b-ed0c-4ad8-a118-f6a4c43ea828)|![Circuit Design](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/b80212d7-ea8e-4dbf-9f3d-f602afba2f1f)
+|Circuit Design|
+|---|
+|![Circuit Design](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/b80212d7-ea8e-4dbf-9f3d-f602afba2f1f)|
 
 ---
 
 ## Ultrasonic Sensor
 |GUI|LCD|
 |---|---|
-|![GUI](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/21853337-c0a9-4ef5-be7b-b4780aeb4039)|![LCD](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/484158bf-de6b-43ad-b98f-910e414e9a65)
-|
+|![GUI](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/21853337-c0a9-4ef5-be7b-b4780aeb4039)|![LCD](https://github.com/wingyeung0317/EEE3456-miniproject/assets/121206892/484158bf-de6b-43ad-b98f-910e414e9a65)|
 
 ---
 
