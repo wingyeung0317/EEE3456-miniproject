@@ -1,4 +1,9 @@
 # Raspberry Pi Mini Project
+> `pi/miniproject/flask flask run`
+> 
+> All the files outside of miniproject folder are for testing the raspberry pi and test files.
+
+\
 - [Raspberry Pi Mini Project](#raspberry-pi-mini-project)
   - [GPIO](#gpio)
   - [Ultrasonic Sensor](#ultrasonic-sensor)
