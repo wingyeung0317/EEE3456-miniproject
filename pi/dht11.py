@@ -2,9 +2,9 @@ import time
 import RPi
 import RPi.GPIO as GPIO
 
-GPIO.setwarnings(False)
-GPIO.setmode(GPIO.BCM)
-GPIO.cleanup()
+# GPIO.setwarnings(False)
+# GPIO.setmode(GPIO.BCM)
+# GPIO.cleanup()
 
 class DHT11Result:
     'DHT11 sensor result returned by DHT11.read() method'
